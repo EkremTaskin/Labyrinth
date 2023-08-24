@@ -1,0 +1,490 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1688955211090386, "dur":56636, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955211147041, "dur":220, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955211147334, "dur":863, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955211148579, "dur":155, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1688955211148944, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/3318320138003214525.rsp" }}
+,{ "pid":12345, "tid":0, "ts":1688955211149293, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211149773, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211150044, "dur":131, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211150539, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211150759, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211151456, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211151586, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211151709, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211151793, "dur":116, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211151914, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211152021, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211152169, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211152224, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211153490, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211153818, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211154658, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1688955211154804, "dur":127, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1688955211148273, "dur":6659, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955211154934, "dur":1419295, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955212574241, "dur":330, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955212574572, "dur":60, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955212574839, "dur":82, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955212574938, "dur":3057, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1688955211148889, "dur":6123, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211155898, "dur":567, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211155015, "dur":1909, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211156925, "dur":1239, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211158164, "dur":1610, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211159775, "dur":693, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211160469, "dur":13506, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211173978, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1688955211174086, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211174193, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1688955211174265, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211174365, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1688955211174445, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211174525, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211174625, "dur":8545, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955211183350, "dur":142480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211183174, "dur":142659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211325862, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211327368, "dur":387101, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211327304, "dur":387168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211714496, "dur":2394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211716953, "dur":91645, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211716893, "dur":91708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211808631, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211811160, "dur":73605, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211811091, "dur":73677, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211884804, "dur":3274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211888151, "dur":225887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955211888081, "dur":225960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212114067, "dur":2437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212116580, "dur":39600, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212116507, "dur":39675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212156209, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212157962, "dur":38969, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212157894, "dur":39039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212200097, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1688955212196952, "dur":3393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212200458, "dur":38786, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212200353, "dur":38893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212239273, "dur":12069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212251425, "dur":41443, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212251348, "dur":41522, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212292888, "dur":1250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1688955212294142, "dur":280088, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688955211148714, "dur":6229, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688955211154946, "dur":18930, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688955211173891, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/3318320138003214525.rsp" }}
+,{ "pid":12345, "tid":2, "ts":1688955211173959, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688955211174069, "dur":1400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/ekrem/Desktop/Unity Lessons/Labirent/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1688955211175470, "dur":3329, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1688955211183229, "dur":72999, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211183158, "dur":73072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211256254, "dur":1266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211257583, "dur":37891, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211257522, "dur":37954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211295554, "dur":1720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211297339, "dur":156549, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211297278, "dur":156612, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211453914, "dur":19515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211473502, "dur":284978, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211473435, "dur":285048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211758513, "dur":23986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211782565, "dur":186750, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211782502, "dur":186819, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211969376, "dur":11866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211981335, "dur":61353, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955211981248, "dur":61442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212042717, "dur":3546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212046347, "dur":134448, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212046273, "dur":134525, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212180828, "dur":1507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212182409, "dur":92426, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212182339, "dur":92501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212274884, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212277152, "dur":76270, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212277071, "dur":76355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212353534, "dur":1769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1688955212355305, "dur":218949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211148836, "dur":6130, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211154970, "dur":1336, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211157040, "dur":510, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\il2cpp\\build\\deploy\\Microsoft.DiaSymReader.Native.amd64.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211156307, "dur":2121, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211158429, "dur":2004, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211160434, "dur":13547, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211173982, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1688955211174072, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211174187, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1688955211174273, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211174374, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1688955211174447, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211174615, "dur":8543, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1688955211183235, "dur":74039, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211183161, "dur":74115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211257298, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211258753, "dur":57491, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211258681, "dur":57565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211316270, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211317573, "dur":48422, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211317516, "dur":48481, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211366029, "dur":1654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211367751, "dur":665833, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955211367687, "dur":665901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212033636, "dur":8908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212042647, "dur":68992, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212042560, "dur":69081, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212111668, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212113044, "dur":114189, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212112980, "dur":114256, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212227261, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212231593, "dur":3277, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212231528, "dur":3343, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212234891, "dur":5657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212240634, "dur":331845, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212240552, "dur":331931, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1688955212572524, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211148763, "dur":6187, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211154954, "dur":1638, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211156593, "dur":1304, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211157897, "dur":1344, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211159242, "dur":1453, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211160696, "dur":13236, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211173936, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1688955211174045, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211174146, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1688955211174230, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211174342, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211174415, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211174551, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211174659, "dur":8507, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1688955211183260, "dur":65852, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211183170, "dur":65946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211251081, "dur":3369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211254514, "dur":190127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211254452, "dur":190192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211444671, "dur":1745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211446494, "dur":65625, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211446422, "dur":65699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211512150, "dur":3110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211515328, "dur":69648, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211515263, "dur":69715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211585021, "dur":2290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211587408, "dur":227498, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211587316, "dur":227592, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211814937, "dur":1437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211816442, "dur":69382, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211816378, "dur":69451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211885864, "dur":11397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211897338, "dur":336841, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955211897265, "dur":336916, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955212234202, "dur":18468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955212252752, "dur":55521, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955212252676, "dur":55600, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955212308293, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1688955212309884, "dur":264343, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211148802, "dur":6156, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211154962, "dur":1353, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211156316, "dur":1539, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211158969, "dur":1765, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\I18N.MidEast.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211157856, "dur":3331, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211161187, "dur":12715, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211173906, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1688955211174009, "dur":584, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211174600, "dur":8639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1688955211183362, "dur":95109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211183242, "dur":95231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211278505, "dur":1916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211280483, "dur":235294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211280425, "dur":235820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211517164, "dur":7171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211524409, "dur":62006, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211524340, "dur":62078, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211586447, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211587951, "dur":305611, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211587881, "dur":305684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211893595, "dur":22187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211915892, "dur":67568, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211915793, "dur":67670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211983505, "dur":1807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211985386, "dur":216050, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955211985315, "dur":216123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212201457, "dur":9157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212210691, "dur":49345, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212210619, "dur":49419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212260065, "dur":9656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212269802, "dur":36773, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212269725, "dur":36853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212306610, "dur":1491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1688955212308105, "dur":266142, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211149085, "dur":6069, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211155157, "dur":1625, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211156782, "dur":1369, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211158152, "dur":1634, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211159786, "dur":14099, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211173937, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211174060, "dur":1019, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1688955211175081, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211175226, "dur":7938, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1688955211183364, "dur":70289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211183167, "dur":70489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211253684, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211256564, "dur":177558, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211256493, "dur":177633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211434164, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211435924, "dur":65112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211435768, "dur":65270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211501066, "dur":2398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211503539, "dur":91997, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211503470, "dur":92069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211595570, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211597866, "dur":229365, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211597798, "dur":229435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211827255, "dur":1669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211828996, "dur":131925, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211828928, "dur":131995, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211960952, "dur":5706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211966752, "dur":63661, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955211966665, "dur":63751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212030455, "dur":1439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212031964, "dur":229276, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212031899, "dur":229345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212261283, "dur":9863, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212271211, "dur":36728, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212271150, "dur":36791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212307971, "dur":2319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1688955212310293, "dur":263949, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211148874, "dur":6099, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211155481, "dur":796, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Principal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211154976, "dur":2500, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211157477, "dur":1580, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211159058, "dur":2001, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211161060, "dur":12905, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211173968, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1688955211174060, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211174172, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1688955211174245, "dur":346, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211174596, "dur":8566, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1688955211183264, "dur":64090, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211183163, "dur":64193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211247751, "dur":6218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211254056, "dur":945, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211253972, "dur":1030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211255019, "dur":1813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211256902, "dur":171294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211256834, "dur":171367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211428279, "dur":2237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211430587, "dur":649854, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955211430521, "dur":649923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212080477, "dur":2926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212083520, "dur":32510, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212083414, "dur":32618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212116059, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212117377, "dur":115648, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212117307, "dur":115721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212233057, "dur":4548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212237678, "dur":53275, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212237609, "dur":53346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212290981, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1688955212292756, "dur":281483, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211149222, "dur":5938, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211155163, "dur":2195, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211158435, "dur":2191, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211157359, "dur":3752, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211161111, "dur":12807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211173921, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174022, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174132, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174207, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174304, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174388, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174496, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174563, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211174654, "dur":8659, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1688955211183492, "dur":292145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211183314, "dur":292325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211475665, "dur":6122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211481856, "dur":89828, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211481793, "dur":89893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211571713, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211573249, "dur":51624, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211573114, "dur":51761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211624905, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211626770, "dur":348695, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211626648, "dur":348820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211975500, "dur":8608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211984182, "dur":63524, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955211984113, "dur":63598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212047764, "dur":1940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212049870, "dur":79265, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212049708, "dur":79429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212129166, "dur":2444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212131682, "dur":68556, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212131614, "dur":68628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212201189, "dur":15542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212216796, "dur":153474, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212216735, "dur":153537, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212370288, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1688955212371683, "dur":202576, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211149442, "dur":5854, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211155296, "dur":1442, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211157558, "dur":658, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Windows.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211156738, "dur":2034, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211158909, "dur":625, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.IO.FileSystem.Watcher.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211158773, "dur":2354, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211161128, "dur":12767, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211173899, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1688955211174005, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211174138, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1688955211174226, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211174338, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":9, "ts":1688955211174406, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211174514, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211174608, "dur":8552, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1688955211183263, "dur":107900, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211183161, "dur":108004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211291194, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211292594, "dur":31628, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211292533, "dur":31692, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211324279, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211325975, "dur":40912, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211325897, "dur":40993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211366909, "dur":1417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211368388, "dur":151976, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211368329, "dur":152037, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211520689, "dur":8896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211529650, "dur":73699, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211529588, "dur":73764, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211603382, "dur":7470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211610921, "dur":110836, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211610858, "dur":110901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211721811, "dur":1287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211723170, "dur":187712, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211723101, "dur":187783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211910912, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211912884, "dur":80141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211912812, "dur":80216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211993081, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211995483, "dur":434876, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955211995417, "dur":434944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955212430384, "dur":2272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1688955212432659, "dur":141585, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211149370, "dur":5893, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211156560, "dur":832, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Data.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211155266, "dur":2501, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211157767, "dur":1922, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211159693, "dur":1389, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211161082, "dur":12842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211173928, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1688955211174135, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211174244, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211174318, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211174421, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211174520, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211174621, "dur":8605, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1688955211183299, "dur":71770, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211183228, "dur":71842, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211255085, "dur":1798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211256951, "dur":87287, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211256885, "dur":87355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211344265, "dur":11676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211356013, "dur":158831, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211355945, "dur":158901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211514875, "dur":2146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211517130, "dur":89142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211517025, "dur":89253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211606327, "dur":2504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211609932, "dur":535753, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955211608835, "dur":536853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955212145830, "dur":18776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955212164715, "dur":189097, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955212164614, "dur":189200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955212353835, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1688955212355236, "dur":219010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211149255, "dur":5950, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211155208, "dur":1406, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211156614, "dur":1323, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211157938, "dur":1569, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211159507, "dur":1881, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211161389, "dur":12521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211173914, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1688955211174106, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211174236, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1688955211174305, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211174400, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211174504, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211174591, "dur":8574, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1688955211183254, "dur":50621, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211183166, "dur":50712, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211235247, "dur":3329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211238649, "dur":416342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211238580, "dur":416412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211655035, "dur":3156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211658332, "dur":93343, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211658198, "dur":93480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211751708, "dur":29906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211781742, "dur":90911, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211781618, "dur":91038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211872685, "dur":14566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211887345, "dur":129872, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955211887259, "dur":129961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212017253, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212018846, "dur":111484, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212018783, "dur":111554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212130386, "dur":5247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212135709, "dur":61079, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212135639, "dur":61151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212196855, "dur":4106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212201027, "dur":34350, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212200964, "dur":34415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212235398, "dur":5576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212241038, "dur":41115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212240977, "dur":41178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212282186, "dur":6302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1688955212288492, "dur":285740, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211149395, "dur":5894, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211155292, "dur":1386, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211158291, "dur":572, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211156679, "dur":2516, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211159502, "dur":1247, "ph":"X", "name": "File",  "args": { "detail":"C:\\install unity\\Unity 2023.1.3f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Accessibility.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211159195, "dur":2558, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211161754, "dur":12134, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211173905, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211174052, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211174127, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1688955211174220, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211174323, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent.exe" }}
+,{ "pid":12345, "tid":12, "ts":1688955211174392, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211174466, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211174566, "dur":8742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1688955211183417, "dur":416469, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211183311, "dur":416577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211599912, "dur":3468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211603454, "dur":125226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211603386, "dur":125297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211728706, "dur":1973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211730748, "dur":87988, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211730683, "dur":88056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211818806, "dur":8010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211826886, "dur":105268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211826820, "dur":105338, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211932204, "dur":7437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211939713, "dur":31981, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211939645, "dur":32051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211971723, "dur":13340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211985141, "dur":70531, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955211985068, "dur":70607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212055725, "dur":1860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212057666, "dur":52140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212057593, "dur":52215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212109837, "dur":1831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212111829, "dur":38586, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212111672, "dur":38744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212150443, "dur":2517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212153033, "dur":52058, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212152966, "dur":52128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212205130, "dur":6979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212212171, "dur":157986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212212113, "dur":158047, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212370193, "dur":1276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ekrem/Desktop/SecondGame/Labirent_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1688955212371487, "dur":202766, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1688955212582154, "dur":2279, "ph":"X", "name": "ProfilerWriteOutput" }
+,
